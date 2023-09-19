@@ -8,52 +8,36 @@ const dynamicGallery = window.lightGallery($dynamicGallery, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.1 programas alimentarios.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.1 Indígenas.jpg",
       responsive:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.1 programas alimentarios.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.1 Indígenas.jpg",
       thumb:
-      "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.1 programas alimentarios.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.1 Indígenas.jpg",
       subHtml: ``
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.2 adultos mayores.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.2 Capacitación.jpg",
       responsive:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.2 adultos mayores.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.2 Capacitación.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.2 adultos mayores.JPG"
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.2 Capacitación.jpg"
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.3 Madres Solteras.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.3 Consejo Consultivo.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.3 Madres Solteras.JPG",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.3 Consejo Consultivo.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.3 Madres Solteras.JPG"
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.3 Consejo Consultivo.jpg"
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza//01.4 Tortilla subsidiada.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.4 Consulta Indígena.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza//01.4 Tortilla subsidiada.JPG",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.4 Consulta Indígena.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.4 Tortilla subsidiada.JPG"
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.5 Obras de drenaje.JPG",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.5 Obras de drenaje.JPG",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.5 Obras de drenaje.JPG"
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.6 Obras de Urbanización.JPG",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.6 Obras de Urbanización.JPG",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/001 Menos Pobreza/01.6 Obras de Urbanización.JPG"
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.4 Consulta Indígena.jpg"
     },
   ]
 });
@@ -69,11 +53,11 @@ const dynamicGallery1 = window.lightGallery($dynamicGallery1, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.1 Pruebas COVID.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.1 Madres solteras y adultos mayores.JPG",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.1 Pruebas COVID.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.1 Madres solteras y adultos mayores.JPG",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.1 Pruebas COVID.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.1 Madres solteras y adultos mayores.JPG",
       // subHtml: `<div class="lightGallery-captions">
       //           <h4>Photo by <a href="https://unsplash.com/@brookecagle">Brooke Cagle</a></h4>
       //           <p>Description of the slide 1</p>
@@ -81,52 +65,36 @@ const dynamicGallery1 = window.lightGallery($dynamicGallery1, {
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.2 Cáncer de mama.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.2 Tarjeta Rosa.JPG",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.2 Cáncer de mama.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.2 Tarjeta Rosa.JPG",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.2 Cáncer de mama.jpg"
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.2 Tarjeta Rosa.JPG"
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.3 Telemedicina.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.3 Entrega de Cisternas.jpeg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.3 Telemedicina.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.3 Entrega de Cisternas.jpeg",
   
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.3 Telemedicina.jpg"
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.3 Entrega de Cisternas.jpeg"
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.4 Centro de salud en Axtla de Terrazas.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.4 Paquetes escolares.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.4 Centro de salud en Axtla de Terrazas.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.4 Paquetes escolares.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.4 Centro de salud en Axtla de Terrazas.jpg"
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.4 Paquetes escolares.jpg"
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.6 Central de Mezclas.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.5 Médico en casa.jpeg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.6 Central de Mezclas.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.5 Médico en casa.jpeg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.6 Central de Mezclas.jpg"
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.7 Ambulancias.jpg",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.7 Ambulancias.jpg",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.7 Ambulancias.jpg"
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.8 Donación de sangre.jpg",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.8 Donación de sangre.jpg",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/002 Salud/002.8 Donación de sangre.jpg"
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.5 Médico en casa.jpeg"
     },
   ]
 });
@@ -143,92 +111,47 @@ const dynamicGallery2 = window.lightGallery($dynamicGallery2, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.1 Educación, Cultura y deporte.jpeg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.1_Infraestructura educativa 329.3 mdp.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.1 Educación, Cultura y deporte.jpeg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.1_Infraestructura educativa 329.3 mdp.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.1 Educación, Cultura y deporte.jpeg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.1_Infraestructura educativa 329.3 mdp.jpg",
       
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.1 Utiles escolares.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.2_Estímulos docentes.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.1 Utiles escolares.JPG",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.2_Estímulos docentes.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.1 Utiles escolares.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.2_Estímulos docentes.jpg",
       
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.2 Zapatos escolares.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.3_FENAPO.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.2 Zapatos escolares.JPG",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.3_FENAPO.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.2 Zapatos escolares.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.3_FENAPO.jpg",
       
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.3 Indicadores educativos.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.4_Copa Potosí 2023.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.3 Indicadores educativos.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.4_Copa Potosí 2023.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.3 Indicadores educativos.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.4_Copa Potosí 2023.jpg",
       
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.4 FENAPO.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.5_Capacitación entrenadores.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.4 FENAPO.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.5_Capacitación entrenadores.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.4 FENAPO.jpg",
-      
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.5 Festival Xantolo en tu Ciudad.jpg",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.5 Festival Xantolo en tu Ciudad.jpg",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.5 Festival Xantolo en tu Ciudad.jpg",
-      
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.6 Festival de Invierno.jpg",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.6 Festival de Invierno.jpg",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.6 Festival de Invierno.jpg",
-      
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.7 Juegos CONADE.JPG",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.7 Juegos CONADE.JPG",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.7 Juegos CONADE.JPG",
-      
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.8 Eventos Charros.jpg",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.8 Eventos Charros.jpg",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.8 Eventos Charros.jpg",
-      
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.9 Copa Potosí.jpg",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.9 Copa Potosí.jpg",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/003 Educación, Cultura y Deporte/003.9 Copa Potosí.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.5_Capacitación entrenadores.jpg",
       
     },
    
@@ -248,93 +171,44 @@ const dynamicGallery3 = window.lightGallery($dynamicGallery3, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Clínica rosa.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.1 Apoyos alimentarios.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Clínica rosa.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.1 Apoyos alimentarios.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Clínica rosa.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.1 Apoyos alimentarios.jpg",
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Inauguración clínica rosa.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.2 Mestruación digna.JPG",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Inauguración clínica rosa.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.2 Mestruación digna.JPG",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Inauguración clínica rosa.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.2 Mestruación digna.JPG",
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Tarjeta Rosa Ciudad Valles.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.3 Abrigando corazones.JPG",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Tarjeta Rosa Ciudad Valles.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.3 Abrigando corazones.JPG",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Tarjeta Rosa Ciudad Valles.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.3 Abrigando corazones.JPG",
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Tarjeta rosa.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.4 Ferias de la Salud.JPG",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Tarjeta rosa.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.4 Ferias de la Salud.JPG",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.1 Tarjeta rosa.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.4 Ferias de la Salud.JPG",
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.2 menstruación digna.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.5 Terapias en UBR.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.2 menstruación digna.jpg",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.5 Terapias en UBR.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.2 menstruación digna.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.5 Terapias en UBR.jpg",
     },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.3 Jóvenes.PNG",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.3 Jóvenes.PNG",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.3 Jóvenes.PNG",
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.4 Apoyos a personas sin seguridad social.JPG",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.4 Apoyos a personas sin seguridad social.JPG",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.4 Apoyos a personas sin seguridad social.JPG",
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.5 Apoyos técnicos.JPG",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.5 Apoyos técnicos.JPG",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.5 Apoyos técnicos.JPG",
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.6 Reclutamiento para jóvenes.png",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.6 Reclutamiento para jóvenes.png",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.6 Reclutamiento para jóvenes.png",
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.7 Acciones por la niñez.JPG",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.7 Acciones por la niñez.JPG",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.7 Acciones por la niñez.JPG",
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.8 Feria de la Salud.jpeg",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.8 Feria de la Salud.jpeg",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/004 Inclusión Social e Igualdad de Género/004.8 Feria de la Salud.jpeg",
-    },
-   
   ]
 });
 $dynamicGallery3.addEventListener("click", () => {
@@ -351,59 +225,49 @@ const dynamicGallery4 = window.lightGallery($dynamicGallery4, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.1 Becas alimentarias.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.1 CRUM.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.1 Becas alimentarias.JPG",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.1 CRUM.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.1 Becas alimentarias.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.1 CRUM.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.2 Más obras para las comunidades indígenas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.2 Hemodialisis.jpeg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.2 Más obras para las comunidades indígenas.JPG",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.2 Hemodialisis.jpeg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.2 Más obras para las comunidades indígenas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.2 Hemodialisis.jpeg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.3 Planteamiento de necesidades.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.3 Telemedicina.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.3 Planteamiento de necesidades.JPG",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.3 Telemedicina.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.3 Planteamiento de necesidades.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.3 Telemedicina.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.4 Inversión en municipios con población indígena.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.4 Central de Mezclas.jpg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.4 Inversión en municipios con población indígena.JPG",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.4 Central de Mezclas.jpg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.4 Inversión en municipios con población indígena.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.4 Central de Mezclas.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.5 Día Internacional de los Pueblos Indígenas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.5 vacunación.jpeg",
       responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.5 Día Internacional de los Pueblos Indígenas.JPG",
+      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.5 vacunación.jpeg",
       thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.5 Día Internacional de los Pueblos Indígenas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.5 vacunación.jpeg",
      
     },
-    {
-      src:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.6 Promoción de la salud en zonas indígenas.jpeg",
-      responsive:
-      "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.6 Promoción de la salud en zonas indígenas.jpeg",
-      thumb:
-        "../../../../assets/images/Eje 1 Calidad de Vida/005 Pueblos Originarios/005.6 Promoción de la salud en zonas indígenas.jpeg",
-     
-    },
-   
   ]
 });
 $dynamicGallery4.addEventListener("click", () => {
