@@ -8,96 +8,44 @@ const dynamicGallery = window.lightGallery($dynamicGallery, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.1 peticiones en giras.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.2 Peticiones.JPG",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.1 peticiones en giras.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.2 Peticiones.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.1 peticiones en giras.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.2 Peticiones.JPG",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.1 petición en giras.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.3 Giras.jpg",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.1 petición en giras.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.3 Giras.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.1 petición en giras.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.3 Giras.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Alemania.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.4 visitas de inspección.jpeg",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Alemania.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.4 visitas de inspección.jpeg",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Alemania.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.4 visitas de inspección.jpeg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Arabia.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.5 Consejos Municipales.jpg",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Arabia.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.5 Consejos Municipales.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Arabia.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/01 Alianzas para la Gobernabilidad/4.1.5 Consejos Municipales.jpg",
      
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador de Francia.jpg",
-      responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador de Francia.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador de Francia.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Egipto.jpg",
-      responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Egipto.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Egipto.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Indonesia.jpg",
-      responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Indonesia.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Indonesia.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Japón.jpg",
-      responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Japón.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.2 Embajador Japón.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.3 Consulta PED.jpg",
-      responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.3 Consulta PED.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/001 Alianzas para la Gobernabilidad/001.3 Consulta PED.jpg",
-     
-    },
-   
-   
+    },   
   ]
 });
 $dynamicGallery.addEventListener("click", () => {
@@ -113,32 +61,32 @@ const dynamicGallery2 = window.lightGallery($dynamicGallery2, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/002 Anticorrupción y Combate a la Impunidad/002.1 Auditorias.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/02 Anticorrupcion y Combate a la Impunidad/4.2.2 Resoluciones.jpeg",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/002 Anticorrupción y Combate a la Impunidad/002.1 Auditorias.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/02 Anticorrupcion y Combate a la Impunidad/4.2.2 Resoluciones.jpeg",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/002 Anticorrupción y Combate a la Impunidad/002.1 Auditorias.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/02 Anticorrupcion y Combate a la Impunidad/4.2.2 Resoluciones.jpeg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/002 Anticorrupción y Combate a la Impunidad/002.2 Declaranet.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/02 Anticorrupcion y Combate a la Impunidad/4.2.3 Auditorias financieras.jpeg",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/002 Anticorrupción y Combate a la Impunidad/002.2 Declaranet.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/02 Anticorrupcion y Combate a la Impunidad/4.2.3 Auditorias financieras.jpeg",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/002 Anticorrupción y Combate a la Impunidad/002.2 Declaranet.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/02 Anticorrupcion y Combate a la Impunidad/4.2.3 Auditorias financieras.jpeg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/002 Anticorrupción y Combate a la Impunidad/002.3 Transparencia.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/02 Anticorrupcion y Combate a la Impunidad/4.2.4 Cuentas públicas.png",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/002 Anticorrupción y Combate a la Impunidad/002.3 Transparencia.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/02 Anticorrupcion y Combate a la Impunidad/4.2.4 Cuentas públicas.png",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/002 Anticorrupción y Combate a la Impunidad/002.3 Transparencia.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/02 Anticorrupcion y Combate a la Impunidad/4.2.4 Cuentas públicas.png",
      
     },
   
@@ -159,32 +107,42 @@ const dynamicGallery3 = window.lightGallery($dynamicGallery3, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/003 Finanzas Responsables y Sanas/003.1 Licencias gratuitas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.2 Licencias.png",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/003 Finanzas Responsables y Sanas/003.1 Licencias gratuitas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.2 Licencias.png",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/003 Finanzas Responsables y Sanas/003.1 Licencias gratuitas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.2 Licencias.png",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/003 Finanzas Responsables y Sanas/003.2 Placas gratis.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.3 Repuve.jpeg",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/003 Finanzas Responsables y Sanas/003.2 Placas gratis.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.3 Repuve.jpeg",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/003 Finanzas Responsables y Sanas/003.2 Placas gratis.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.3 Repuve.jpeg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/003 Finanzas Responsables y Sanas/003.3 ahorros en rentas de inmuebles.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.4 Inversión Pública.JPG",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/003 Finanzas Responsables y Sanas/003.3 ahorros en rentas de inmuebles.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.4 Inversión Pública.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/003 Finanzas Responsables y Sanas/003.3 ahorros en rentas de inmuebles.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.4 Inversión Pública.JPG",
+     
+    },
+    {
+      src:
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.5 Capacitacion.jpg",
+      responsive:
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.5 Capacitacion.jpg",
+      
+      thumb:
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/03 Finanzas Responsables y Sanas/4.3.5 Capacitacion.jpg",
      
     },
    
@@ -247,40 +205,7 @@ const dynamicGallery4 = window.lightGallery($dynamicGallery4, {
         "../../../../assets/images/Eje 4 Gobierno Responsable/004 Gobierno Digital para la Certidumbre Patrimonial/004.3 CURP certificadas.jpg",
      
     },
-    {
-      src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/004 Gobierno Digital para la Certidumbre Patrimonial/04. Ventanilla Distrital del Instituto Registral y Catastral.jpg",
-      responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/004 Gobierno Digital para la Certidumbre Patrimonial/04. Ventanilla Distrital del Instituto Registral y Catastral.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/004 Gobierno Digital para la Certidumbre Patrimonial/04. Ventanilla Distrital del Instituto Registral y Catastral.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/004 Gobierno Digital para la Certidumbre Patrimonial/Módulo de expedición de actas.JPG",
-      responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/004 Gobierno Digital para la Certidumbre Patrimonial/Módulo de expedición de actas.JPG",
-      
-      thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/004 Gobierno Digital para la Certidumbre Patrimonial/Módulo de expedición de actas.JPG",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/004 Gobierno Digital para la Certidumbre Patrimonial/Visita del Gobernador del Estado a la Dirección del Registro Civil.jpeg",
-      responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/004 Gobierno Digital para la Certidumbre Patrimonial/Visita del Gobernador del Estado a la Dirección del Registro Civil.jpeg",
-      
-      thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/004 Gobierno Digital para la Certidumbre Patrimonial/Visita del Gobernador del Estado a la Dirección del Registro Civil.jpeg",
-     
-    },
    
-   
-    
-  
    
    
   ]
@@ -300,42 +225,42 @@ const dynamicGallery5 = window.lightGallery($dynamicGallery5, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.1 Protección a Periodistas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.2 Reunion para  escuchar a periodistas.jpg",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.1 Protección a Periodistas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.2 Reunion para  escuchar a periodistas.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.1 Protección a Periodistas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.2 Reunion para  escuchar a periodistas.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.2 Sistema Estatal de Búsqueda.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.3 CEBP.jpg",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.2 Sistema Estatal de Búsqueda.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.3 CEBP.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.2 Sistema Estatal de Búsqueda.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.3 CEBP.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.4 Centro Estatal Busqueda.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.4 Toma de muestra genéticas.jpg",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.4 Centro Estatal Busqueda.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.4 Toma de muestra genéticas.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.4 Centro Estatal Busqueda.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.4 Toma de muestra genéticas.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.5 Premio Derechos Humanos.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.5 Programa Estatal de Búsqueda de Personas.jpg",
       responsive:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.5 Premio Derechos Humanos.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.5 Programa Estatal de Búsqueda de Personas.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 4 Gobierno Responsable/005 Derechos Humanos/005.5 Premio Derechos Humanos.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 4. Gobierno Responsable/05 Derechos Humanos/4.5.5 Programa Estatal de Búsqueda de Personas.jpg",
      
     },
    
