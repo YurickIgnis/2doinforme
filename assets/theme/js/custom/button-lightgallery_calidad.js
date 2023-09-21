@@ -8,15 +8,6 @@ const dynamicGallery = window.lightGallery($dynamicGallery, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.1 Indígenas.jpg",
-      responsive:
-        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.1 Indígenas.jpg",
-      thumb:
-      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.1 Indígenas.jpg",
-      subHtml: ``
-    },
-    {
-      src:
         "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.2 Capacitación.jpg",
       responsive:
         "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/01 Atención a Pueblos Originarios/1.1.2 Capacitación.jpg",
@@ -51,18 +42,6 @@ const dynamicGallery1 = window.lightGallery($dynamicGallery1, {
   dynamic: true,
   plugins: [lgZoom, lgVideo, lgThumbnail],
   dynamicEl: [
-    {
-      src:
-        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.1 Madres solteras y adultos mayores.JPG",
-      responsive:
-      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.1 Madres solteras y adultos mayores.JPG",
-      thumb:
-        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.1 Madres solteras y adultos mayores.JPG",
-      // subHtml: `<div class="lightGallery-captions">
-      //           <h4>Photo by <a href="https://unsplash.com/@brookecagle">Brooke Cagle</a></h4>
-      //           <p>Description of the slide 1</p>
-      //       </div>`
-    },
     {
       src:
         "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/02 Menos Pobreza/1.2.2 Tarjeta Rosa.JPG",
@@ -109,15 +88,6 @@ const dynamicGallery2 = window.lightGallery($dynamicGallery2, {
   dynamic: true,
   plugins: [lgZoom, lgVideo, lgThumbnail],
   dynamicEl: [
-    {
-      src:
-        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.1_Infraestructura educativa 329.3 mdp.jpg",
-      responsive:
-      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.1_Infraestructura educativa 329.3 mdp.jpg",
-      thumb:
-        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.1_Infraestructura educativa 329.3 mdp.jpg",
-      
-    },
     {
       src:
         "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/03 Educación, Cultura y Deporte/1.3.2_Estímulos docentes.jpg",
@@ -171,14 +141,6 @@ const dynamicGallery3 = window.lightGallery($dynamicGallery3, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.1 Apoyos alimentarios.jpg",
-      responsive:
-      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.1 Apoyos alimentarios.jpg",
-      thumb:
-        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.1 Apoyos alimentarios.jpg",
-    },
-    {
-      src:
         "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.2 Mestruación digna.JPG",
       responsive:
       "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/04 Inclusión Social e Igualdad de Género/1.4.2 Mestruación digna.JPG",
@@ -223,15 +185,6 @@ const dynamicGallery4 = window.lightGallery($dynamicGallery4, {
   dynamic: true,
   plugins: [lgZoom, lgVideo, lgThumbnail],
   dynamicEl: [
-    {
-      src:
-        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.1 CRUM.jpg",
-      responsive:
-      "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.1 CRUM.jpg",
-      thumb:
-        "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.1 CRUM.jpg",
-     
-    },
     {
       src:
         "../../../../assets/images/2doinforme/Vertientes/Eje 1. Calidad de Vida/05 Salud/1.5.2 Hemodialisis.jpeg",

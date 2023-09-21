@@ -8,83 +8,48 @@ const dynamicGallery = window.lightGallery($dynamicGallery, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.1 Mesas Estatales de Paz y Seguridad.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.2 División Caminos.JPG",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.1 Mesas Estatales de Paz y Seguridad.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.2 División Caminos.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.1 Mesas Estatales de Paz y Seguridad.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.2 División Caminos.JPG",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.2 Vehículos tacticos y equipamiento.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.3 Comandancia en zona Industrial.JPG",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.2 Vehículos tacticos y equipamiento.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.3 Comandancia en zona Industrial.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.2 Vehículos tacticos y equipamiento.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.3 Comandancia en zona Industrial.JPG",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.3 apoyo a municipios con Guardia Civil.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.4 Tecnología en C5i2.JPG",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.3 apoyo a municipios con Guardia Civil.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.4 Tecnología en C5i2.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.3 apoyo a municipios con Guardia Civil.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.4 Tecnología en C5i2.JPG",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.4 Vigilancia para la seguridad.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.5 C4 en Cd Valles.jpg",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.4 Vigilancia para la seguridad.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.5 C4 en Cd Valles.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.4 Vigilancia para la seguridad.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/01 Paz y Seguridad/2.1.5 C4 en Cd Valles.jpg",
      
     },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.5 Grupo de Operaciones Tácticas (Got).jpeg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.5 Grupo de Operaciones Tácticas (Got).jpeg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.5 Grupo de Operaciones Tácticas (Got).jpeg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.6 Consejo Ciudadano de Seguridad Pública.jpg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.6 Consejo Ciudadano de Seguridad Pública.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.6 Consejo Ciudadano de Seguridad Pública.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.7 Seguridad.jpeg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.7 Seguridad.jpeg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/001 Paz y Seguridad/001.7 Seguridad.jpeg",
-     
-    },
-    
-   
   ]
 });
 $dynamicGallery.addEventListener("click", () => {
@@ -99,83 +64,48 @@ const dynamicGallery1 = window.lightGallery($dynamicGallery1, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.1 Justicia e Instituciones Sólidas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.2 Defensor público.JPG",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.1 Justicia e Instituciones Sólidas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.2 Defensor público.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.1 Justicia e Instituciones Sólidas.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.2 Defensor público.JPG",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.2 Servicios Defensoría.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.3 Pension al menor.jpg",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.2 Servicios Defensoría.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.3 Pension al menor.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.2 Servicios Defensoría.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.3 Pension al menor.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.3 Cobertura en municipios.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.4 Serv jurid indígenas.JPG",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.3 Cobertura en municipios.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.4 Serv jurid indígenas.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.3 Cobertura en municipios.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.4 Serv jurid indígenas.JPG",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.4 Juzgado Séptimo Familiar.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.5 Asesorias a grupos vulnerables.JPG",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.4 Juzgado Séptimo Familiar.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.5 Asesorias a grupos vulnerables.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.4 Juzgado Séptimo Familiar.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/02 Justicia e Instituciones Sólidas/2.2.5 Asesorias a grupos vulnerables.JPG",
      
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.5 Jóvenes beneficiados.jpg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.5 Jóvenes beneficiados.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.5 Jóvenes beneficiados.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.6 Programa Defensoría.jpg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.6 Programa Defensoría.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.6 Programa Defensoría.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.7 Servicio de atención y asesoría jurídica a usuaria. .jpg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.7 Servicio de atención y asesoría jurídica a usuaria. .jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/002 Justicia e instituciones sólidas/002.7 Servicio de atención y asesoría jurídica a usuaria. .jpg",
-     
-    },
-   
-   
+    }, 
   ]
 });
 $dynamicGallery1.addEventListener("click", () => {
@@ -190,74 +120,48 @@ const dynamicGallery2 = window.lightGallery($dynamicGallery2, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/0034CO~1.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.2 Infraestructura.jpg",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/0034CO~1.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.2 Infraestructura.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/0034CO~1.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.2 Infraestructura.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/Sexting.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.3 Autoempleo.JPG",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/Sexting.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.3 Autoempleo.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/Sexting.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.3 Autoempleo.JPG",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/Seguridad Pública.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.4 Salud.JPG",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/Seguridad Pública.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.4 Salud.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/Seguridad Pública.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.4 Salud.JPG",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/003.2 Constructoras de la Paz.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.5 Telemedicina.JPG",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/003.2 Constructoras de la Paz.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.5 Telemedicina.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/003.2 Constructoras de la Paz.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/03 Reinserción Social/2.3.5 Telemedicina.JPG",
      
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/Modulo de denuncia policía cibernetica.JPG",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/Modulo de denuncia policía cibernetica.JPG",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/Modulo de denuncia policía cibernetica.JPG",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/003.5 Foros SEPINNA.jpg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/003.5 Foros SEPINNA.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/003 Combate a la Delincuencia y Atención a Víctimas/003.5 Foros SEPINNA.jpg",
-     
-    },
-  
-    
-   
-   
+    }, 
   ]
 });
 $dynamicGallery2.addEventListener("click", () => {
@@ -272,75 +176,48 @@ const dynamicGallery3 = window.lightGallery($dynamicGallery3, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.1 Libertad anticipada.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.2 Benef GC.jpg",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.1 Libertad anticipada.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.2 Benef GC.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.1 Libertad anticipada.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.2 Benef GC.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.2 Certificado de estudios.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.3 Acciones a favor de mujeres.JPG",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.2 Certificado de estudios.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.3 Acciones a favor de mujeres.JPG",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.2 Certificado de estudios.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.3 Acciones a favor de mujeres.JPG",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.3 Torre CEPE cd valles.jpeg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.4 CEEAV.jpg",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.3 Torre CEPE cd valles.jpeg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.4 CEEAV.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.3 Torre CEPE cd valles.jpeg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.4 CEEAV.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.4 Rectoría CEPE.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.5 PROESPINNA.jpg",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.4 Rectoría CEPE.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.5 PROESPINNA.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.4 Rectoría CEPE.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/04 Combate a la Delincuencia y Atención a Víctimas/2.4.5 PROESPINNA.jpg",
      
     },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.4 Rectoría femenil.jpg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.4 Rectoría femenil.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.4 Rectoría femenil.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.5 Personas empleadas.jpeg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.5 Personas empleadas.jpeg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/004 Reinserción Social/004.5 Personas empleadas.jpeg",
-     
-    },
-   
-  
-    
-   
-   
   ]
 });
 $dynamicGallery3.addEventListener("click", () => {
@@ -357,132 +234,48 @@ const dynamicGallery4 = window.lightGallery($dynamicGallery4, {
   dynamicEl: [
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 escuela 1.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.2 Operat Invierno.jpeg",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 escuela 1.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.2 Operat Invierno.jpeg",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 escuela 1.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.2 Operat Invierno.jpeg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 Escuela de Protección civil.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.3 Red Sismica Estatal.jpg",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 Escuela de Protección civil.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.3 Red Sismica Estatal.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 Escuela de Protección civil.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.3 Red Sismica Estatal.jpg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 Escuela Nacional.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.4 Capacitaciónes.jpeg",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 Escuela Nacional.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.4 Capacitaciónes.jpeg",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 Escuela Nacional.jpg",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.4 Capacitaciónes.jpeg",
      
     },
     {
       src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 Escuela.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.5 Atlas de riesgos.jpg",
       
       responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 Escuela.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.5 Atlas de riesgos.jpg",
       
       thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.1 Escuela.JPG",
+        "../../../../assets/images/2doinforme/Vertientes/Eje 2. Seguridad y Justicia/05 Protección Civil y Atención a Desastres/2.5.5 Atlas de riesgos.jpg",
      
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.2 Atlas de riesgos.JPG",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.2 Atlas de riesgos.JPG",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.2 Atlas de riesgos.JPG",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.3 supervisión por sismo.jpg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.3 supervisión por sismo.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.3 supervisión por sismo.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.4 Entrega de apoyos invierno.jpg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.4 Entrega de apoyos invierno.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.4 Entrega de apoyos invierno.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.4 Temporada invernal.jpg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.4 Temporada invernal.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.4 Temporada invernal.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.5 Combate de incendios.jpg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.5 Combate de incendios.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/005.5 Combate de incendios.jpg",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/Consejo estatal de Protección Civil.JPG",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/Consejo estatal de Protección Civil.JPG",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/Consejo estatal de Protección Civil.JPG",
-     
-    },
-    {
-      src:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/Suspención de Inmuebles.jpg",
-      
-      responsive:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/Suspención de Inmuebles.jpg",
-      
-      thumb:
-        "../../../../assets/images/Eje 2 Paz y Justicia/005 Protección Civil y Atención a Desastres/Suspención de Inmuebles.jpg",
-     
-    },
-    
-   
-   
-  
-    
-   
-   
+    }, 
   ]
 });
 $dynamicGallery4.addEventListener("click", () => {
